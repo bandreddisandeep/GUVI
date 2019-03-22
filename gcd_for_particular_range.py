@@ -17,6 +17,7 @@ n=int(s[0])
 q=int(s[1])
 b1=[]
 a=[]
+g=[]
 A=input().split()
 for l in range(n):
     a.append(A[l])
