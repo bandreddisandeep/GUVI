@@ -10,7 +10,7 @@ for j in range(n):
         a2.append(j)
 if len(a2)!=0:
     for k in range(len(a2)):
-        print(a2[k], end=" ")
+        print(a2[k])
 else:
     print(-1)
         
