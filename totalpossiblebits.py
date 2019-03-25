@@ -38,7 +38,7 @@ for i in range(len(x)):
 
 for f in range(len(c)):
     for d in range(q-1):
-        print(c[f][d],end=" ")
+        print(c[f][d],end="")
     print(c[f][-1])
     
     
