@@ -8,6 +8,10 @@ for j in range(len(b1)):
     if b1[j] not in d1:
         fla=1
         
+for k in range(len(c)):
+    if c[k] not in b:
+        fla=1
+        
 if c1==a1 or fla==1:
     print('no')
 else:
